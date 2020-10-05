@@ -8,5 +8,5 @@
 `sudo ufw disable`  
   
   
-**Verfy Firewall Status is now inactive**  
+**Verify Firewall Status is now inactive**  
 `sudo ufw status`
