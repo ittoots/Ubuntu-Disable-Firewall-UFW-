@@ -5,7 +5,6 @@
 
 **Disable Firewall**  
 `sudo ufw disable`
-  
-  
+ 
 **Verify Firewall Status is now inactive**  
 `sudo ufw status`
